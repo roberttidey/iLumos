@@ -1,0 +1,10 @@
+[
+{"device":"iLumos","parameter":"A","wait":"750","bits":"0","repeat":"1"},
+{"device":"iLumos","parameter":"A","wait":"1000","bits":"0","repeat":"1"},
+{"device":"iLumos","parameter":"B","wait":"750","bits":"0","repeat":"1"},
+{"device":"iLumos","parameter":"B","wait":"1000","bits":"0","repeat":"1"},
+{"device":"iLumos","parameter":"C","wait":"750","bits":"0","repeat":"1"},
+{"device":"iLumos","parameter":"C","wait":"1000","bits":"0","repeat":"1"},
+{"device":"iLumos","parameter":"D","wait":"750","bits":"0","repeat":"1"},
+{"device":"iLumos","parameter":"D","wait":"1000","bits":"0","repeat":"1"}
+]
