@@ -1,5 +1,6 @@
 # iLumos RF remote control for iLumos switches using esp8266
 - can also be used as a IR blaster for other devices
+- definitions for samsung tv and energenie plug in sockets included
 - based on IRBlaster here but simplified to remove temperature support and Alexa detection
 
 ### Features
